@@ -33,6 +33,8 @@ The resulted tidy data file
 ---------------------------
 The resulted tidy file is the tidy_file.txt that you can find in this repository
 
+Here is a quick link: https://github.com/chrpriftis/Getting-and-Cleaning-Data-Course-Project/blob/master/tidy_data.txt
+
 About the Code Book
 -------------------
 The CodeBook.md file provides details about the implementation of the run_analysis.R script as well as information about the data included in the tidy data file (see above) 
