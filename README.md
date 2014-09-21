@@ -37,4 +37,5 @@ Here is a quick link: https://github.com/chrpriftis/Getting-and-Cleaning-Data-Co
 
 About the Code Book
 -------------------
-The CodeBook.md file provides details about the implementation of the run_analysis.R script as well as information about the data included in the tidy data file (see above) 
+The CodeBook.md file provides details about the implementation of the run_analysis.R script 
+Here is a quick link to the CodeBook.md: https://github.com/chrpriftis/Getting-and-Cleaning-Data-Course-Project/blob/master/CodeBook.md
